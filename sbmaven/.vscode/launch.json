@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SbmavenApplication<sbmaven>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.robert.sbpracticas.sbmaven.SbmavenApplication",
+            "projectName": "sbmaven",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
